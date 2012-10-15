@@ -1,6 +1,6 @@
 
-MDM - MATE Display Manager
-http://www.gnome.org/projects/mdm/
+MATE Display Manager
+https://github.com/perberos/mate-display-manager
 
 The MATE Display Manager is a system service that is responsible for
 providing graphical log-ins and managing local and remote displays.
@@ -17,7 +17,7 @@ How to report bugs
 
 Bugs should be reported to the MATE bug tracking
 system:
-    http://bugzilla.gnome.org/simple-bug-guide.cgi?product=mdm
+    https://github.com/perberos/mate-display-manager/issues
 
 You will need to create an account if you don't have one already.
 
